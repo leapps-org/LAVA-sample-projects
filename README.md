@@ -1,6 +1,6 @@
 # LAVA Sample Projects
 
-This repository contains pre-parsed sample projects for use with :contentReference[oaicite:0]{index=0} and the LEAPPs tools.
+This repository contains pre-parsed sample projects for use with LAVA and the LEAPPs tools.
 
 These projects are generated from publicly available forensic sample images.
 
